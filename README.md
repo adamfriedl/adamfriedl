@@ -4,7 +4,7 @@ Two careers doing the same thing: building systems that help people get to bette
 
 ## What I work on
 
-Cloud infrastructure and platform engineering (GCP, Kubernetes, Terraform), CI/CD and deploy reliability, observability, and increasingly data pipelines. I use AI tooling daily and care about how it changes engineering workflows without replacing judgment.
+Cloud infrastructure and platform engineering (GCP, Kubernetes, Terraform), CI/CD and deploy reliability, observability, and distributed systems. I use AI tooling daily and care about how it changes engineering workflows without replacing judgment.
 
 ## What's here
 
