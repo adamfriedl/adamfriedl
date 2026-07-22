@@ -8,6 +8,6 @@ Cloud infrastructure and platform engineering (GCP, Kubernetes, Terraform), CI/C
 
 ## What's here
 
-Most of my work lives in private repos. Public projects are labs and learning exercises.
+Most of what I ship day to day lives in private company repos, so it won't show up here. What's public is mostly labs and side learning.
 
 [adamfriedl.net](https://adamfriedl.net) · [LinkedIn](https://www.linkedin.com/in/adamfriedl)
