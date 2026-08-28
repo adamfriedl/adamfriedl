@@ -10,4 +10,4 @@ Cloud infrastructure and platform engineering (GCP, Kubernetes, Terraform), CI/C
 
 Most of what I ship day to day lives in private company repos, so it won't show up here. What's public is mostly labs and side learning.
 
-[adamfriedl.net](https://adamfriedl.net) · [LinkedIn](https://www.linkedin.com/in/adamfriedl)
+[adamfriedl.com](https://adamfriedl.com) · [LinkedIn](https://www.linkedin.com/in/adamfriedl)
