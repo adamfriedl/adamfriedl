@@ -1,6 +1,6 @@
 # Adam Friedl
 
-Two careers doing the same thing: building systems that help people get to better outcomes. The first was in law and access-to-justice work — legal aid, community court operations, technology for self-represented litigants. The second is in engineering — eight years shipping production software and infrastructure.
+Two careers doing the same thing: deciding how systems that help people should work, bringing along the people who depend on them, and owning the result. The first was in law and access-to-justice work — legal aid, community court operations, technology for self-represented litigants. The second is in engineering — eight years shipping production software and infrastructure.
 
 ## What I care about
 
